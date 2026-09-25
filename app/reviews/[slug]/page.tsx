@@ -77,7 +77,7 @@ export default async function ReviewPage({
 
       <Link
         href={`/reviews/category/${categorySlug(post.category)}`}
-        className="mt-6 inline-block text-xs font-semibold uppercase tracking-widest text-maple-400 hover:text-maple-500"
+        className="mt-6 block w-fit text-xs font-semibold uppercase tracking-widest text-maple-400 hover:text-maple-500"
       >
         {post.category}
       </Link>
