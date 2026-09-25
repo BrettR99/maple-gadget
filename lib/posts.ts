@@ -61,3 +61,26 @@ export function getSlugs(): string[] {
     .filter((f) => f.endsWith(".md"))
     .map((f) => f.replace(/\.md$/, ""));
 }
+
+export function categorySlug(category: string): string {
+  return category
+    .toLowerCase()
+    .replace(/&/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+export function getCategorySlugs(): string[] {
+  const seen = new Set<string>();
+  for (const p of getPosts()) seen.add(categorySlug(p.category));
+  return [...seen];
+}
+
+export function getCategoryName(slug: string): string | null {
+  const post = getPosts().find((p) => categorySlug(p.category) === slug);
+  return post ? post.category : null;
+}
+
+export function getPostsByCategory(slug: string): Post[] {
+  return getPosts().filter((p) => categorySlug(p.category) === slug);
+}

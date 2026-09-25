@@ -1,5 +1,15 @@
 import Link from "next/link";
-import { getPosts } from "@/lib/posts";
+import { getPosts, categorySlug } from "@/lib/posts";
+
+const CATEGORIES = [
+  "Gaming",
+  "Audio",
+  "Peripherals",
+  "Displays",
+  "Computing",
+  "Smart home",
+  "Accessories",
+];
 
 function RatingBadge({ rating }: { rating: number }) {
   return (
@@ -214,19 +224,31 @@ export default function Home() {
       {/* CATEGORIES */}
       <section className="mx-auto max-w-6xl px-5 py-16">
         <h2 className="font-display text-2xl font-bold text-white sm:text-3xl">Browse by category</h2>
-        <div className="mt-8 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-6">
-          {["Audio", "Mice & keyboards", "Monitors", "PC hardware", "Smart home", "Accessories"].map(
-            (c) => (
-              <Link
-                key={c}
-                href="/reviews"
-                className="rounded-2xl border border-white/10 bg-ink-900 p-5 text-center transition-colors hover:border-maple-500/50"
-              >
+        <div className="mt-8 grid grid-cols-2 gap-4 sm:grid-cols-4 lg:grid-cols-7">
+          {CATEGORIES.map((c) => {
+            const count = posts.filter((p) => p.category === c).length;
+            const tile = (
+              <>
                 <p className="font-display text-sm font-semibold text-white">{c}</p>
-                <p className="mt-1 text-xs text-mist-500">Coming soon</p>
+                <p className="mt-1 text-xs text-mist-500">
+                  {count > 0
+                    ? `${count} article${count === 1 ? "" : "s"}`
+                    : "Coming soon"}
+                </p>
+              </>
+            );
+            const className =
+              "rounded-2xl border border-white/10 bg-ink-900 p-5 text-center transition-colors hover:border-maple-500/50";
+            return count > 0 ? (
+              <Link key={c} href={`/reviews/category/${categorySlug(c)}`} className={className}>
+                {tile}
               </Link>
-            )
-          )}
+            ) : (
+              <div key={c} className={className}>
+                {tile}
+              </div>
+            );
+          })}
         </div>
       </section>
 

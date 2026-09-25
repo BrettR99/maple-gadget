@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import ReactMarkdown from "react-markdown";
-import { getPost, getSlugs } from "@/lib/posts";
+import { getPost, getSlugs, categorySlug } from "@/lib/posts";
 import type { Metadata } from "next";
 
 export function generateStaticParams() {
@@ -75,9 +75,12 @@ export default async function ReviewPage({
         ← All reviews
       </Link>
 
-      <p className="mt-6 text-xs font-semibold uppercase tracking-widest text-maple-400">
+      <Link
+        href={`/reviews/category/${categorySlug(post.category)}`}
+        className="mt-6 inline-block text-xs font-semibold uppercase tracking-widest text-maple-400 hover:text-maple-500"
+      >
         {post.category}
-      </p>
+      </Link>
       <h1 className="font-display mt-3 text-3xl font-bold leading-tight text-white sm:text-4xl">
         {post.title}
       </h1>
