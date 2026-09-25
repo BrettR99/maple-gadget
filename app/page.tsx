@@ -3,12 +3,13 @@ import { getPosts, categorySlug } from "@/lib/posts";
 
 const CATEGORIES = [
   "Gaming",
-  "Audio",
-  "Peripherals",
-  "Displays",
-  "Computing",
-  "Smart home",
+  "Smartphones",
+  "TVs",
+  "Cameras",
   "Accessories",
+  "Sound & Audio",
+  "Computers",
+  "Smart home",
 ];
 
 function RatingBadge({ rating }: { rating: number }) {
@@ -224,7 +225,7 @@ export default function Home() {
       {/* CATEGORIES */}
       <section className="mx-auto max-w-6xl px-5 py-16">
         <h2 className="font-display text-2xl font-bold text-white sm:text-3xl">Browse by category</h2>
-        <div className="mt-8 grid grid-cols-2 gap-4 sm:grid-cols-4 lg:grid-cols-7">
+        <div className="mt-8 grid grid-cols-2 gap-4 sm:grid-cols-4">
           {CATEGORIES.map((c) => {
             const count = posts.filter((p) => p.category === c).length;
             const tile = (
