@@ -34,7 +34,7 @@ export default function About() {
         <div className="rounded-2xl border border-white/10 bg-ink-900 p-6">
           <p className="font-display text-sm font-semibold text-maple-400">Hands-on reviews</p>
           <p className="mt-2 text-sm leading-relaxed text-mist-400">
-            When we&apos;ve tested a product ourselves, we say so — including how
+            When we&apos;ve tested a product ourselves, we say so, including how
             long we used it and what we used it for. Long-term, lived-with-it
             impressions beat launch-day unboxings, and that&apos;s what we aim for.
           </p>
@@ -43,7 +43,7 @@ export default function About() {
           <p className="font-display text-sm font-semibold text-maple-400">Research roundups</p>
           <p className="mt-2 text-sm leading-relaxed text-mist-400">
             For &ldquo;best of&rdquo; lists, we compare specs, professional
-            measurements, and trusted reviews — and we state the methodology up
+            measurements, and trusted reviews, and we state the methodology up
             front. We never imply hands-on testing that didn&apos;t happen.
           </p>
         </div>
@@ -60,7 +60,7 @@ export default function About() {
       <h2 className="font-display mt-12 text-2xl font-bold text-white">How we make money</h2>
       <p className="mt-4 text-[15px] leading-relaxed text-mist-300">
         Maple Gadget will be reader-supported. We haven&apos;t joined any
-        affiliate programs yet — there are currently no affiliate links on this
+        affiliate programs yet, so there are currently no affiliate links on this
         site. When that changes, our disclosure will be updated the same day.
         What won&apos;t change: rankings are never for sale, commission rates
         never influence scores, and sponsors never see reviews before

@@ -2,12 +2,12 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "This week's deals",
-  description: "Verified tech and gaming deals at Canadian retailers — prices in CAD, updated weekly.",
+  description: "Verified tech and gaming deals at Canadian retailers, prices in CAD, updated weekly.",
 };
 
 const deals = [
   {
-    title: "Sample deal — wireless gaming headset",
+    title: "Sample deal: wireless gaming headset",
     retailer: "Amazon.ca",
     oldPrice: "$199.99",
     newPrice: "$149.99",
@@ -15,7 +15,7 @@ const deals = [
     detail: "Placeholder example showing how weekly deals will look.",
   },
   {
-    title: "Sample deal — 27\" 1440p 165Hz monitor",
+    title: "Sample deal: 27\" 1440p 165Hz monitor",
     retailer: "Best Buy Canada",
     oldPrice: "$429.99",
     newPrice: "$329.99",
@@ -23,7 +23,7 @@ const deals = [
     detail: "Placeholder example showing how weekly deals will look.",
   },
   {
-    title: "Sample deal — mechanical keyboard",
+    title: "Sample deal: mechanical keyboard",
     retailer: "Canada Computers",
     oldPrice: "$139.99",
     newPrice: "$99.99",
@@ -41,14 +41,14 @@ export default function Deals() {
       <h1 className="font-display mt-3 text-4xl font-bold text-white">This week&apos;s deals</h1>
       <p className="mt-3 max-w-2xl text-sm leading-relaxed text-mist-400 sm:text-base">
         Real discounts at Canadian retailers, verified in CAD. We only list
-        deals we&apos;d actually recommend — no inflated &ldquo;was&rdquo;
+        deals we&apos;d actually recommend, no inflated &ldquo;was&rdquo;
         prices, no junk.
       </p>
 
       <div className="mt-8 rounded-3xl border border-gold-400/25 bg-gold-400/5 p-6">
         <p className="text-sm leading-relaxed text-mist-300">
           <strong className="text-gold-400">Sample deals below.</strong> The
-          weekly deals roundup launches with the first real content drop — these
+          weekly deals roundup launches with the first real content drop. These
           placeholders show the format.
         </p>
       </div>
@@ -72,14 +72,14 @@ export default function Deals() {
             </div>
             <p className="mt-1 text-xs text-mist-500">at {d.retailer} · CAD</p>
             <span className="mt-4 cursor-not-allowed rounded-full bg-ink-700 px-6 py-2.5 text-center text-sm font-semibold text-mist-400">
-              Get this deal — soon
+              Get this deal (soon)
             </span>
           </div>
         ))}
       </div>
 
       <p className="mt-10 text-center text-xs text-mist-500">
-        Deals may sell out or change price — we verify at publish time. There
+        Deals may sell out or change price. We verify at publish time. There
         are currently no affiliate links on this site.
       </p>
     </div>

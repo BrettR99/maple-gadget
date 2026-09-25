@@ -79,7 +79,7 @@ export default async function ReviewPage({
         <span>Updated {post.date}</span>
         {post.sample && (
           <span className="rounded-full bg-gold-400/15 px-2.5 py-1 font-semibold text-gold-400">
-            Sample layout — placeholder content
+            Sample layout: placeholder content
           </span>
         )}
       </div>
@@ -137,14 +137,14 @@ export default async function ReviewPage({
           )}
           <div className="mt-6 flex flex-col gap-3 sm:flex-row">
             <span className="flex-1 cursor-not-allowed rounded-full bg-maple-500/40 px-6 py-3 text-center text-sm font-semibold text-white/70">
-              Check price at Amazon.ca — soon
+              Check price at Amazon.ca (soon)
             </span>
             <span className="flex-1 cursor-not-allowed rounded-full border border-white/15 px-6 py-3 text-center text-sm font-semibold text-mist-400">
-              Check price at Best Buy — soon
+              Check price at Best Buy (soon)
             </span>
           </div>
           <p className="mt-3 text-center text-xs text-mist-500">
-            No affiliate links yet — price buttons activate when our affiliate
+            No affiliate links yet. Price buttons activate when our affiliate
             accounts are live.{" "}
             <Link href="/disclosure" className="underline hover:text-mist-300">
               Learn more

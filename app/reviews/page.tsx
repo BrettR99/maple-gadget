@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Reviews",
-  description: "Hands-on reviews and research-backed roundups of tech and gaming gear — with Canadian prices.",
+  description: "Hands-on reviews and research-backed roundups of tech and gaming gear, with Canadian prices.",
 };
 
 export default function ReviewsIndex() {
@@ -15,7 +15,7 @@ export default function ReviewsIndex() {
       <h1 className="font-display mt-3 text-4xl font-bold text-white">Reviews</h1>
       <p className="mt-3 max-w-2xl text-sm leading-relaxed text-mist-400 sm:text-base">
         Hands-on reviews of gear we&apos;ve actually used, plus research-backed
-        roundups with Canadian pricing. Our methodology is always stated — never
+        roundups with Canadian pricing. Our methodology is always stated, never
         implied.
       </p>
 

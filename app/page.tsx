@@ -54,7 +54,7 @@ export default function Home() {
             style={{ animationDelay: "160ms" }}
           >
             Every pick with CAD pricing and Canadian availability. No sponsored
-            rankings, no US prices, no guesswork — just what&apos;s actually
+            rankings, no US prices, no guesswork. Just what&apos;s actually
             worth your money in Canada.
           </p>
           <div
@@ -83,7 +83,7 @@ export default function Home() {
           <TrustItem title="Prices in CAD" text="Every price you see is Canadian dollars at Canadian retailers." />
           <TrustItem title="Actually available" text="We check stock at Amazon.ca, Best Buy Canada, Canada Computers & more." />
           <TrustItem title="Hands-on or labeled" text="Tested gear is marked tested. Research roundups say exactly how they were built." />
-          <TrustItem title="Reader-supported" text="No affiliate links yet. When they arrive, they'll keep the lights on — and never decide the rankings." />
+          <TrustItem title="Reader-supported" text="No affiliate links yet. When they arrive, they'll keep the lights on, and they'll never decide the rankings." />
         </div>
       </section>
 
@@ -93,7 +93,7 @@ export default function Home() {
           <div>
             <h2 className="font-display text-xl font-bold text-white">The weekly rhythm</h2>
             <p className="mt-1 text-sm text-mist-400">
-              New picks on a schedule — so you know when to check back.
+              New picks on a schedule, so you know when to check back.
             </p>
           </div>
           <div className="grid w-full gap-3 sm:grid-cols-3 md:max-w-2xl">
@@ -198,8 +198,8 @@ export default function Home() {
               Canadian tech deals, every week.
             </h2>
             <p className="mt-2 max-w-xl text-sm leading-relaxed text-mist-300 sm:text-base">
-              Price drops and real discounts at Canadian retailers — verified in
-              CAD, updated weekly. The fastest way Maple Gadget pays for itself.
+              Price drops and real discounts at Canadian retailers, verified in
+              CAD and updated weekly. The fastest way Maple Gadget pays for itself.
             </p>
           </div>
           <Link
@@ -236,21 +236,21 @@ export default function Home() {
           <h2 className="font-display text-2xl font-bold text-white">How we review</h2>
           <div className="mt-6 grid gap-8 md:grid-cols-3">
             <div>
-              <p className="font-display text-sm font-semibold text-maple-400">01 — Hands-on first</p>
+              <p className="font-display text-sm font-semibold text-maple-400">01. Hands-on first</p>
               <p className="mt-2 text-sm leading-relaxed text-mist-400">
-                When we&apos;ve tested a product ourselves, we say so — and tell
+                When we&apos;ve tested a product ourselves, we say so, and tell
                 you for how long and how it was used.
               </p>
             </div>
             <div>
-              <p className="font-display text-sm font-semibold text-maple-400">02 — Research, labeled</p>
+              <p className="font-display text-sm font-semibold text-maple-400">02. Research, labeled</p>
               <p className="mt-2 text-sm leading-relaxed text-mist-400">
-                Roundups are built from specs, measurements, and trusted reviews
-                — with the methodology stated up front, never implied.
+                Roundups are built from specs, measurements, and trusted reviews,
+                with the methodology stated up front and never implied.
               </p>
             </div>
             <div>
-              <p className="font-display text-sm font-semibold text-maple-400">03 — Canada, always</p>
+              <p className="font-display text-sm font-semibold text-maple-400">03. Canada, always</p>
               <p className="mt-2 text-sm leading-relaxed text-mist-400">
                 Prices in CAD, stock checked at Canadian stores. If it&apos;s
                 not reasonably available in Canada, it doesn&apos;t make the list.

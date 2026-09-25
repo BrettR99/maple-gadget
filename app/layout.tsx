@@ -8,7 +8,7 @@ const grotesk = Space_Grotesk({ subsets: ["latin"], variable: "--font-display" }
 
 export const metadata: Metadata = {
   title: {
-    default: "Maple Gadget — Honest tech & gaming reviews for Canadians",
+    default: "Maple Gadget: Honest tech & gaming reviews for Canadians",
     template: "%s · Maple Gadget",
   },
   description:

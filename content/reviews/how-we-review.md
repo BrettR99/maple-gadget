@@ -10,9 +10,9 @@ sample: true
 
 Every piece on Maple Gadget is one of two things, and we always tell you which:
 
-**Hands-on reviews** — we've physically used the product. The article states how long we used it, what we used it for, and what we compared it against.
+**Hands-on reviews:** we've physically used the product. The article states how long we used it, what we used it for, and what we compared it against.
 
-**Research roundups** — built from specifications, professional measurements, and trusted third-party reviews. The methodology section names the sources and the criteria, so you can judge the work yourself.
+**Research roundups:** built from specifications, professional measurements, and trusted third-party reviews. The methodology section names the sources and the criteria, so you can judge the work yourself.
 
 ## What we never do
 
@@ -23,7 +23,7 @@ Every piece on Maple Gadget is one of two things, and we always tell you which:
 
 ## Scores
 
-Products we review hands-on receive a score out of 10. The score reflects the product's value **in Canada** — a great product at an unreasonable Canadian price doesn't score well here.
+Products we review hands-on receive a score out of 10. The score reflects the product's value **in Canada**. A great product at an unreasonable Canadian price doesn't score well here.
 
 ---
 

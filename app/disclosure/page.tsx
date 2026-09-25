@@ -16,9 +16,9 @@ export default function Disclosure() {
           Maple Gadget is intended to be a reader-supported publication. The
           honest current status: <strong className="text-white">there are no
           affiliate links on this site, and we have no affiliate relationships
-          with any retailer.</strong> When that changes — for example, if we
+          with any retailer.</strong> When that changes, for example if we
           join programs like Amazon.ca Associates, Best Buy Canada, or Walmart
-          Canada — this page will be updated the same day to name every program.
+          Canada, this page will be updated the same day to name every program.
         </p>
         <p>
           The commitments below apply from day one and don&apos;t change:
@@ -31,7 +31,7 @@ export default function Disclosure() {
           <li>Negative findings are published. A bad product gets a bad review, affiliate link or not.</li>
         </ul>
         <p>
-          If you ever feel a review reads like an ad, tell us — that&apos;s a bug,
+          If you ever feel a review reads like an ad, tell us. That&apos;s a bug,
           not the business model.
         </p>
         <p className="text-sm text-mist-500">Last updated: September 2026.</p>
