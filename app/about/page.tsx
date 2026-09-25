@@ -59,9 +59,11 @@ export default function About() {
 
       <h2 className="font-display mt-12 text-2xl font-bold text-white">How we make money</h2>
       <p className="mt-4 text-[15px] leading-relaxed text-mist-300">
-        Maple Gadget is reader-supported. When you buy through links on this
-        site, we may earn a commission from the retailer — at no extra cost to
-        you. Rankings are never for sale, and sponsors never see reviews before
+        Maple Gadget will be reader-supported. We haven&apos;t joined any
+        affiliate programs yet — there are currently no affiliate links on this
+        site. When that changes, our disclosure will be updated the same day.
+        What won&apos;t change: rankings are never for sale, commission rates
+        never influence scores, and sponsors never see reviews before
         publication. Read the full{" "}
         <a href="/disclosure" className="text-maple-400 underline hover:text-maple-500">
           affiliate disclosure

@@ -83,7 +83,7 @@ export default function Home() {
           <TrustItem title="Prices in CAD" text="Every price you see is Canadian dollars at Canadian retailers." />
           <TrustItem title="Actually available" text="We check stock at Amazon.ca, Best Buy Canada, Canada Computers & more." />
           <TrustItem title="Hands-on or labeled" text="Tested gear is marked tested. Research roundups say exactly how they were built." />
-          <TrustItem title="Reader-supported" text="Affiliate links keep the lights on — they never decide the rankings." />
+          <TrustItem title="Reader-supported" text="No affiliate links yet. When they arrive, they'll keep the lights on — and never decide the rankings." />
         </div>
       </section>
 

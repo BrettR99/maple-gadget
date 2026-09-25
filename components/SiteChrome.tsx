@@ -88,9 +88,10 @@ export function Footer() {
         <div className="mt-10 border-t border-white/10 pt-6 text-xs leading-relaxed text-mist-500">
           <p>© 2026 Maple Gadget. Made in Canada.</p>
           <p className="mt-2">
-            As a reader-supported publication, we may earn a commission from
-            qualifying purchases made through links on this site — at no extra
-            cost to you. Read our <Link href="/disclosure" className="underline hover:text-mist-300">affiliate disclosure</Link>.
+            Maple Gadget will be reader-supported: if we add affiliate links in
+            the future, we may earn a commission from qualifying purchases — at
+            no extra cost to you, and never in exchange for rankings. There are
+            currently no affiliate links on this site. Read our <Link href="/disclosure" className="underline hover:text-mist-300">affiliate disclosure</Link>.
           </p>
         </div>
       </div>

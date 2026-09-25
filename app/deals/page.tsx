@@ -11,6 +11,7 @@ const deals = [
     retailer: "Amazon.ca",
     oldPrice: "$199.99",
     newPrice: "$149.99",
+    save: "Save $50",
     detail: "Placeholder example showing how weekly deals will look.",
   },
   {
@@ -18,6 +19,7 @@ const deals = [
     retailer: "Best Buy Canada",
     oldPrice: "$429.99",
     newPrice: "$329.99",
+    save: "Save $100",
     detail: "Placeholder example showing how weekly deals will look.",
   },
   {
@@ -25,6 +27,7 @@ const deals = [
     retailer: "Canada Computers",
     oldPrice: "$139.99",
     newPrice: "$99.99",
+    save: "Save $40",
     detail: "Placeholder example showing how weekly deals will look.",
   },
 ];
@@ -57,7 +60,7 @@ export default function Deals() {
             className="flex flex-col rounded-3xl border border-white/10 bg-ink-900 p-6"
           >
             <span className="inline-flex w-fit items-center rounded-full bg-emerald-400/15 px-3 py-1 text-xs font-semibold text-emerald-400">
-              Save {d.oldPrice.replace("$", "").replace(".99", "")} → {d.newPrice}
+              {d.save}
             </span>
             <h2 className="font-display mt-3 text-lg font-bold leading-snug text-white">
               {d.title}
@@ -76,8 +79,8 @@ export default function Deals() {
       </div>
 
       <p className="mt-10 text-center text-xs text-mist-500">
-        Deals may sell out or change price — we verify at publish time. Affiliate
-        links may earn us a commission at no extra cost to you.
+        Deals may sell out or change price — we verify at publish time. There
+        are currently no affiliate links on this site.
       </p>
     </div>
   );

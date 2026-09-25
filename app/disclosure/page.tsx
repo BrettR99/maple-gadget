@@ -13,22 +13,18 @@ export default function Disclosure() {
 
       <div className="mt-8 space-y-5 text-[15px] leading-relaxed text-mist-300">
         <p>
-          Maple Gadget is a reader-supported publication. That means some of the
-          links on this site are affiliate links: if you click one and make a
-          purchase, we may earn a commission from the retailer at no additional
-          cost to you.
+          Maple Gadget is intended to be a reader-supported publication. The
+          honest current status: <strong className="text-white">there are no
+          affiliate links on this site, and we have no affiliate relationships
+          with any retailer.</strong> When that changes — for example, if we
+          join programs like Amazon.ca Associates, Best Buy Canada, or Walmart
+          Canada — this page will be updated the same day to name every program.
         </p>
         <p>
-          Current and planned affiliate relationships include programs such as
-          Amazon.ca Associates, and may in future include retailers like Best Buy
-          Canada, Walmart Canada, and software or service providers. This page
-          will be updated as relationships change.
-        </p>
-        <p>
-          <strong className="text-white">What this doesn&apos;t change:</strong>
+          The commitments below apply from day one and don&apos;t change:
         </p>
         <ul className="list-disc space-y-2 pl-6">
-          <li>Rankings and scores are never sold. No brand can pay for placement.</li>
+          <li>Rankings and scores are never sold. No brand can pay for placement, and commission rates never influence scores.</li>
           <li>We don&apos;t inflate scores to sell more units.</li>
           <li>Hands-on reviews always state what was actually tested, for how long.</li>
           <li>Research roundups always state their methodology.</li>

@@ -144,7 +144,8 @@ export default async function ReviewPage({
             </span>
           </div>
           <p className="mt-3 text-center text-xs text-mist-500">
-            Affiliate links — we may earn a commission at no extra cost to you.{" "}
+            No affiliate links yet — price buttons activate when our affiliate
+            accounts are live.{" "}
             <Link href="/disclosure" className="underline hover:text-mist-300">
               Learn more
             </Link>
