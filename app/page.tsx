@@ -102,8 +102,8 @@ export default function Home() {
               <p className="mt-1 text-sm font-medium text-white">New reviews drop</p>
             </div>
             <div className="rounded-2xl border border-white/10 bg-ink-800/60 p-4">
-              <p className="text-xs font-semibold uppercase tracking-widest text-maple-400">Fridays</p>
-              <p className="mt-1 text-sm font-medium text-white">Fresh deals roundup</p>
+              <p className="text-xs font-semibold uppercase tracking-widest text-maple-400">Sunday nights</p>
+              <p className="mt-1 text-sm font-medium text-white">Fresh deals for the week ahead</p>
             </div>
             <div className="rounded-2xl border border-white/10 bg-ink-800/60 p-4">
               <p className="text-xs font-semibold uppercase tracking-widest text-maple-400">All week</p>
