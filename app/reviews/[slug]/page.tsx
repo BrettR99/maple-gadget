@@ -41,9 +41,17 @@ const md = {
   strong: (props: React.HTMLAttributes<HTMLElement>) => (
     <strong className="font-semibold text-white" {...props} />
   ),
-  a: (props: React.AnchorHTMLAttributes<HTMLAnchorElement>) => (
-    <a className="text-maple-400 underline hover:text-maple-500" {...props} />
-  ),
+  a: ({ href, ...props }: React.AnchorHTMLAttributes<HTMLAnchorElement>) => {
+    const external = href?.startsWith("http");
+    return (
+      <a
+        href={href}
+        className="text-maple-400 underline hover:text-maple-500"
+        {...(external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
+        {...props}
+      />
+    );
+  },
   blockquote: (props: React.BlockquoteHTMLAttributes<HTMLQuoteElement>) => (
     <blockquote
       className="mt-6 rounded-2xl border-l-4 border-maple-500 bg-ink-800 px-6 py-4 text-[15px] italic leading-relaxed text-mist-300"

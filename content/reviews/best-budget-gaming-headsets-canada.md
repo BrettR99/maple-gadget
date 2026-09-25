@@ -42,6 +42,8 @@ Why it wins: reviewers keep landing in the same place. Tom's Guide concluded it'
 
 **Best for:** PC and PlayStation gamers who want the best sound under $150 and don't mind a cable.
 
+**Check price:** [Amazon.ca](https://www.amazon.ca/dp/B09ZWMYHCT) · [Best Buy Canada](https://www.bestbuy.ca/en-ca/product/steelseries-arctis-nova-3-gaming-headset-black/16489587)
+
 ### 2. HyperX Cloud II, best microphone and build
 
 **Score: 8.3/10. Around $80–120 CAD.**
@@ -55,6 +57,8 @@ The trade-offs are age-related: no Bluetooth, no modern app ecosystem, and limit
 **Cons:** Dated design; no wireless; software and EQ options are limited; prices vary a lot between retailers.
 
 **Best for:** PC gamers who want a headset that lasts and a mic their teammates will actually compliment.
+
+**Check price:** [Amazon.ca](https://www.amazon.ca/dp/B00SAYCXWG) · [Best Buy Canada](https://www.bestbuy.ca/en-ca/product/hyperx-cloud-ii-over-ear-gaming-headset-red-black/11800872)
 
 ### 3. Corsair HS65 Surround, best sound tuning
 
@@ -70,6 +74,8 @@ The caveats: Tom's Guide also noted compatibility is limited and console perform
 
 **Best for:** PC gamers who like to tune their audio and want surround features without paying extra.
 
+**Check price:** [Amazon.ca](https://www.amazon.ca/dp/B09YHQ3Y61) · [Best Buy Canada](https://www.bestbuy.ca/en-ca/product/corsair-hs65-surround-gaming-headset-black/16204861)
+
 ### 4. Razer BlackShark V2 X, best for competitive FPS on a budget
 
 **Score: 7.8/10. Around $55–70 CAD.**
@@ -83,6 +89,8 @@ A note on evidence: dedicated lab measurements of the V2 X specifically are thin
 **Cons:** 7.1 surround is Windows-only software; mic is fixed, not detachable; thinner measurement coverage than rivals; faux-leather pads get warm.
 
 **Best for:** Competitive FPS players on a tight budget who want a no-frills wired headset that works everywhere.
+
+**Check price:** [Amazon.ca](https://www.amazon.ca/dp/B086PKMZ21) · [Best Buy Canada](https://www.bestbuy.ca/en-ca/product/razer-blackshark-v2-x-gaming-headset-with-microphone-black-green/14801106)
 
 ### 5. SteelSeries Arctis Nova 1, best lightweight comfort
 
@@ -98,6 +106,8 @@ The honest counterpoint comes from Tom's Guide, which found it merely good rathe
 
 **Best for:** Gamers who prioritize comfort and want one headset that plugs into everything.
 
+**Check price:** [Amazon.ca](https://www.amazon.ca/dp/B0B8Q8P1FY) · [Best Buy Canada](https://www.bestbuy.ca/en-ca/product/steelseries-arctis-nova-1-gaming-headset-black/16489585)
+
 ### 6. Logitech G435 Lightspeed, best wireless on a budget
 
 **Score: 7.4/10. Around $60–70 CAD.**
@@ -112,6 +122,8 @@ But go in with eyes open. The beamforming mics (no boom arm) pick up background 
 
 **Best for:** Kids, casual gamers, and anyone who absolutely needs wireless under $70.
 
+**Check price:** [Amazon.ca](https://www.amazon.ca/dp/B08R8DT7X6)
+
 ### 7. HyperX Cloud Stinger 2, cheapest worth buying
 
 **Score: 7.2/10. Around $40–50 CAD.**
@@ -125,6 +137,8 @@ It's plastic, the sound is unrefined next to the picks above, and there's nothin
 **Cons:** All plastic; sound is fine, not good; no software features; wired only.
 
 **Best for:** The tightest budgets, kids' first headsets, and backups.
+
+**Check price:** [Amazon.ca](https://www.amazon.ca/dp/B0B8PGDMWK) · [Best Buy Canada](https://www.bestbuy.ca/en-ca/product/hyperx-cloud-stinger-2-gaming-headset-black/16474333)
 
 ## What to look for (and what to ignore)
 
@@ -148,4 +162,4 @@ On a tighter budget, the **HyperX Cloud II** (around $80–120) is the long-haul
 
 ---
 
-*No affiliate links yet. Price buttons activate when our affiliate accounts are live. Rankings are never for sale, and no manufacturer paid for placement in this roundup.*
+*The links above are plain retailer links, not affiliate links. Maple Gadget earns nothing from them. Rankings are never for sale, and no manufacturer paid for placement in this roundup.*
