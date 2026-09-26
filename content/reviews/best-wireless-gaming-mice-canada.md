@@ -7,9 +7,9 @@ category: "Gaming"
 
 Wireless used to mean compromise. In 2026 it doesn't, at least not at the level most people play at. Every mouse below runs a 1,000Hz polling rate over its 2.4GHz dongle, tracks accurately enough for mid-level competitive play, and costs less than a new game. The differences that matter are shape, weight, and battery, not the spec sheet.
 
-Every mouse below typically sells for under CA$75, and every retailer link was verified in September 2026. Prices on these swing constantly with sales, so check before you buy.
+Every mouse below has sold for under CA$75 recently, and every retailer link was verified in September 2026. Prices on these swing constantly with sales, so check before you buy and read the refresh note above.
 
-**Prices checked September 2026.**
+**Prices checked September 2026. Refreshed September 25:** mouse prices swing hard with sales, and the swing went the wrong way this week. Three picks below are currently priced above our CA$75 ceiling: the DeathAdder V2 X (CA$79.46), the Basilisk V3 X (CA$99.99), and the Rival 3 Wireless Gen 2 (CA$79.98). All three regularly dip back under $75 on sale, the DeathAdder was CA$39.99 at Best Buy Canada until September 10, so treat those three as "buy on sale" picks until prices settle.
 
 ## How this roundup was built
 
@@ -29,11 +29,11 @@ Scores are Maple Gadget's own judgment based on the evidence above. Nobody paid 
 
 ### 1. Logitech G305 Lightspeed, best overall
 
-**Score: 8.6/10. Around $40–50 CAD.**
+**Score: 8.6/10. Around $50–60 CAD.**
 
 The G305 is the safest recommendation in budget wireless, and it's not close. RTINGS' 2026 budget guide calls it the best budget wireless gaming mouse for most people, citing excellent click latency, reliable sensor performance, sturdy construction, and a shape that suits most hands and grips. Tom's Hardware praised its advanced HERO 12K sensor and rock-solid Lightspeed wireless connection. The honest downsides: at around 100g with its AA battery installed it's heavy by 2026 lightweight standards, it runs on a disposable AA (250 hours, so you'll replace it a few times a year), and there's no Bluetooth, just the 2.4GHz dongle.
 
-None of that matters much at CA$40–50. It just works, everywhere, for years. This is the mouse to buy when you don't want to think about it.
+None of that matters much at CA$50–60. It just works, everywhere, for years. This is the mouse to buy when you don't want to think about it.
 
 **Pros:** Excellent measured click latency; reliable sensor; sturdy build; shape suits most hands; outstanding battery life.
 
@@ -61,15 +61,15 @@ At around CA$40–55 in Canada, it's the cheapest way to get a truly lightweight
 
 ### 3. Razer DeathAdder V2 X HyperSpeed, best ergonomic pick
 
-**Score: 8.0/10. Around $40–65 CAD.**
+**Score: 8.0/10. Around $40–80 CAD.**
 
 The DeathAdder shape is the most imitated ergonomic design in gaming mice for a reason: it just fits medium and large right hands. This wireless version keeps that shape, adds HyperSpeed 2.4GHz plus Bluetooth, and runs up to 235 hours on a single AA. PCWorld found it quick and responsive in fast games with lasting comfort, Trusted Reviews called it a brilliant mid-range wireless mouse with a snappy sensor and excellent battery life, and Windows Central preferred it to the more expensive V2 Pro for most buyers. Downsides: right-hand only, the DPI button placement is odd, and Razer's Synapse software is bloated.
 
-Pricing note: Best Buy Canada had it at CA$39.99 until a sale ended September 10, 2026. The current non-sale price wasn't visible at the time of checking, so treat the top of our range as approximate and watch for the next sale.
+Pricing note: Best Buy Canada had it at CA$39.99 until a sale ended September 10, 2026, and it's currently CA$79.46 on Amazon.ca. This is a "buy on sale" pick right now; don't pay full price when it was $40 two weeks ago.
 
 **Pros:** Classic comfortable ergonomic shape; great for medium and large hands; dual wireless; long battery life.
 
-**Cons:** Right-hand only; odd DPI button placement; bloated Synapse software; current non-sale price unclear.
+**Cons:** Right-hand only; odd DPI button placement; bloated Synapse software; currently over our $75 ceiling at non-sale prices.
 
 **Best for:** Medium and large hands that want maximum comfort for long sessions.
 
@@ -77,15 +77,15 @@ Pricing note: Best Buy Canada had it at CA$39.99 until a sale ended September 10
 
 ### 4. Razer Basilisk V3 X HyperSpeed, best feature-packed pick
 
-**Score: 7.7/10. Around $54–70 CAD.**
+**Score: 7.7/10. Around $70–100 CAD.**
 
 The most mouse for the money if you like buttons: 9 programmable controls, Chroma RGB, and the same comfortable ergonomic shell as the rest of Razer's lineup, with HyperSpeed 2.4GHz plus Bluetooth. TechPowerUp gave it a Recommended award, praised the smooth PTFE feet, and argued it stacks up well against the far more expensive Basilisk V3 Pro for average users. The evidence base is thinner than the top picks (one established outlet review), and Synapse's resource use drew criticism.
 
-Watch the price: Amazon.ca had it at CA$69.99 at the time of checking, but Best Buy Canada listed the black model at CA$79.99, which is over our budget cap. Buy it from Amazon.ca, not Best Buy, until that changes.
+Watch the price: it's currently CA$99.99 at Best Buy Canada, which is well over our $75 ceiling. This one only makes sense on sale; at full price, skip it.
 
 **Pros:** 9 programmable controls; RGB lighting; comfortable ergonomic shape; close to the Pro model for much less.
 
-**Cons:** Thinner review evidence than the top picks; Synapse is resource-hungry; Best Buy Canada currently prices it over budget.
+**Cons:** Thinner review evidence than the top picks; Synapse is resource-hungry; currently priced well over budget.
 
 **Best for:** Buyers who want the most buttons and features per dollar.
 
@@ -109,11 +109,11 @@ The review evidence is thinner here (one mid-tier outlet), but the price and the
 
 ### 6. SteelSeries Rival 3 Wireless Gen 2, best casual multi-device pick
 
-**Score: 7.1/10. Around $55–70 CAD.**
+**Score: 7.1/10. Around $55–80 CAD.**
 
 The most divisive mouse on this list. Tom's Guide called it great for casual gaming, citing the sensor, 1,000Hz polling, comfort, and long battery life (up to 200 hours over 2.4GHz, 450 over Bluetooth, from one or two AAA batteries). Windows Central called it an easy recommendation for a reliable budget wireless mouse. But PC Gamer was substantially more negative, criticizing its weight, mediocre sensor, and mushy, squeaky scroll wheel. When reviewers disagree this much, the truth is usually "fine for casual use, not for competitive play," and that's where we've ranked it.
 
-It does have legitimate strengths for the right buyer: dual wireless with easy device switching, fun colour options, and comfort-first design. Just don't buy it for ranked shooters.
+It does have legitimate strengths for the right buyer: dual wireless with easy device switching, fun colour options, and comfort-first design. Just don't buy it for ranked shooters, and don't buy it at the current CA$79.98; wait for it to dip back under $70.
 
 **Pros:** Good for casual gaming and multi-device use; long battery life; comfortable; colour options.
 
@@ -133,13 +133,13 @@ It does have legitimate strengths for the right buyer: dual wireless with easy d
 
 **For competitive shooters, lighter is genuinely better.** The G305's ~100g is heavy by 2026 standards, which is exactly why the Orochi V2 (~70g) and Haste 2 Core (70g) exist at this price. Less mass to move means faster, less tiring aim over long sessions.
 
-**Check stock and price the week you buy.** These mice swing between CA$40 and CA$70 on Amazon.ca and Best Buy Canada, and the best pick changes with the sale. The DeathAdder V2 X was CA$39.99 at Best Buy Canada until mid-September; the Haste 2 Core was CA$48.98 until September 17. Patience pays.
+**Check stock and price the week you buy.** These mice swing between CA$40 and CA$100 on Amazon.ca and Best Buy Canada, and the best pick changes with the sale. The DeathAdder V2 X was CA$39.99 at Best Buy Canada until mid-September and is CA$79.46 on Amazon.ca now; the Haste 2 Core was CA$48.98 until September 17. Patience pays, and our deals page tracks the ones actually on sale.
 
 ## Final verdict
 
-If you buy one mouse from this list, make it the **Logitech G305 Lightspeed** (around $40–50). It's the safest pick in budget wireless: proven sensor, excellent click latency, great battery life, and a shape most hands get along with. Boring, reliable, cheap.
+If you buy one mouse from this list, make it the **Logitech G305 Lightspeed** (around $50–60). It's the safest pick in budget wireless: proven sensor, excellent click latency, great battery life, and a shape most hands get along with. Boring, reliable, cheap.
 
-If the G305 feels heavy or small, the **Razer Orochi V2** (around $40–55) is the lightweight answer for small hands, and the **Razer DeathAdder V2 X HyperSpeed** (around $40–65) is the comfort answer for medium and large hands. Feature hunters should grab the **Basilisk V3 X HyperSpeed** from Amazon.ca while it's under $70, and absolute bargain hunters should watch for the **HyperX Pulsefire Haste 2 Core Wireless** on sale under $50.
+If the G305 feels heavy or small, the **Razer Orochi V2** (around $40–55) is the lightweight answer for small hands. The **Razer DeathAdder V2 X HyperSpeed** is the comfort answer for medium and large hands, but only on sale; it was CA$39.99 two weeks ago and isn't worth CA$79.46. Feature hunters should wait for the **Basilisk V3 X HyperSpeed** to drop back under $75 before considering it, and absolute bargain hunters should watch for the **HyperX Pulsefire Haste 2 Core Wireless** on sale under $50.
 
 ---
 

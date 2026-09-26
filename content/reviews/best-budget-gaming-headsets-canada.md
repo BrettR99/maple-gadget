@@ -9,7 +9,7 @@ Gaming headsets get expensive fast, but you don't need to spend $200+ to hear fo
 
 Every headset below is widely available in Canada from retailers like Best Buy Canada, Amazon.ca, and GameStop, and typically sells for under CA$150. Prices here are approximate Canadian prices we observed in September 2026. They move around with sales, so check the current price before you buy.
 
-**Prices checked September 2026.**
+**Prices checked September 2026. Refreshed September 25:** the Logitech G435's range was corrected to CA$40–60 after it dropped below our original estimate. All other picks verified in stock.
 
 ## How this roundup was built
 
@@ -110,7 +110,7 @@ The honest counterpoint comes from Tom's Guide, which found it merely good rathe
 
 ### 6. Logitech G435 Lightspeed, best wireless on a budget
 
-**Score: 7.4/10. Around $60–70 CAD.**
+**Score: 7.4/10. Around $40–60 CAD.**
 
 The G435 is the only wireless pick on this list, and it earns the spot. It's 165g, does Lightspeed USB wireless plus Bluetooth, has 40mm drivers, and an advertised 18-hour battery. Pocket-lint gave it 4/5, calling it comfortable and good-sounding for PC and PlayStation gamers.
 
