@@ -98,32 +98,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* SCHEDULE */}
-      <section className="border-b border-white/10 bg-ink-900/40">
-        <div className="mx-auto flex max-w-6xl flex-col gap-6 px-5 py-10 md:flex-row md:items-center md:justify-between">
-          <div>
-            <h2 className="font-display text-xl font-bold text-white">The weekly rhythm</h2>
-            <p className="mt-1 text-sm text-mist-400">
-              New picks on a schedule, so you know when to check back.
-            </p>
-          </div>
-          <div className="grid w-full gap-3 sm:grid-cols-3 md:max-w-2xl">
-            <div className="rounded-2xl border border-white/10 bg-ink-800/60 p-4">
-              <p className="text-xs font-semibold uppercase tracking-widest text-maple-400">Tuesdays</p>
-              <p className="mt-1 text-sm font-medium text-white">New reviews drop</p>
-            </div>
-            <div className="rounded-2xl border border-white/10 bg-ink-800/60 p-4">
-              <p className="text-xs font-semibold uppercase tracking-widest text-maple-400">Sunday nights</p>
-              <p className="mt-1 text-sm font-medium text-white">Fresh deals for the week ahead</p>
-            </div>
-            <div className="rounded-2xl border border-white/10 bg-ink-800/60 p-4">
-              <p className="text-xs font-semibold uppercase tracking-widest text-maple-400">All week</p>
-              <p className="mt-1 text-sm font-medium text-white">Short videos</p>
-            </div>
-          </div>
-        </div>
-      </section>
-
       {/* FEATURED + LATEST */}
       <section className="mx-auto max-w-6xl px-5 py-16">
         <div className="flex items-end justify-between">
