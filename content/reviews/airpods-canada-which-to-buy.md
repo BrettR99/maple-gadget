@@ -1,25 +1,25 @@
 ---
 title: "AirPods in Canada: which ones to actually buy (2026)"
-excerpt: "Apple's current AirPods lineup runs from $179 to $799 in Canada. Here is what each model actually does, what reviewers measured, and which one deserves your money."
+excerpt: "Apple's new AirPods 5 put noise cancellation in every model from $179. Here is the full Canadian lineup, what reviewers found, and which one deserves your money."
 date: "2026-09-29"
 category: "Sound & Audio"
 ---
 
-Apple's AirPods lineup is refreshingly simple right now: four current models, no confusing overlap, and the old ones are gone. The AirPods Pro 2 is discontinued, the original AirPods Max is being cleared out, and what's left is the **AirPods 4** ($179 CAD), the **AirPods 4 with ANC** ($249 CAD), the **AirPods Pro 3** ($329 CAD), and the **AirPods Max 2** ($799 CAD).
+Apple's AirPods lineup just got a shake-up. At the September 9 event, Apple announced the **AirPods 5** in two models, and they change the buying math completely: active noise cancellation is now standard on every pair Apple sells, starting at **$179 CAD**. The AirPods 4 line is on its way out, leaving a clean four-model lineup: **AirPods 5** ($179), **AirPods 5 with Wireless Charging Case** ($209), **AirPods Pro 3** ($329), and **AirPods Max 2** ($799).
 
-**Prices checked September 29, 2026.** Prices below are Apple Store Canada outright prices, cross-checked against Amazon.ca listings and Canadian outlets (MobileSyrup, iPhoneInCanada). Amazon.ca and Best Buy Canada regularly discount AirPods below Apple's prices, so treat Apple's number as the ceiling, not the deal.
+**Prices checked September 29, 2026.** Prices below are Apple Store Canada outright prices, confirmed on [Apple's Canadian AirPods page](https://www.apple.com/ca/shop/buy-airpods/airpods-5) and via Canadian outlets (MobileSyrup, iPhoneInCanada, MacObserver). Amazon.ca and Best Buy Canada regularly discount AirPods below Apple's prices, so treat Apple's number as the ceiling.
 
 ## How this roundup was built
 
 This is a **research roundup, not a hands-on review**. Maple Gadget didn't receive or test these in person. Instead, the rankings are built from:
 
-- **Measurement-based reviews** from outlets with real testing: MobileSyrup (Canadian testing of the Pro 3), TechRadar (including their AirPods Max 2 review), Engadget, Tom's Guide, Digital Trends, and MacObserver's comparison testing
+- **Reviews and reporting** from credible outlets: MobileSyrup (Canadian coverage of the AirPods 5 launch and Pro 3 review), TechRadar (AirPods Max 2 review), MacObserver (Canadian AirPods 5 pricing), iPhoneInCanada, Engadget, Tom's Guide, and Digital Trends
 - **Apple's spec pages**, used for specifications and Canadian pricing only
 - **Canadian retail listings** at Apple Store Canada and Amazon.ca
 
 What we did *not* use: carrier marketing, content-farm listicles, AI-generated review spam, or sponsored reviews without clear disclosure.
 
-The criteria, in order: **sound quality and ANC performance as measured by reviewers**, **fit and comfort**, **battery life**, then **Canadian price**. Scores are Maple Gadget's own judgment. Nobody paid for placement, and nobody can. We have no affiliate relationships, and rankings are never for sale.
+The criteria, in order: **sound quality and ANC performance**, **fit and comfort**, **battery life**, then **Canadian price**. Scores are Maple Gadget's own judgment. Nobody paid for placement, and nobody can. We have no affiliate relationships, and rankings are never for sale.
 
 ## The picks
 
@@ -27,31 +27,31 @@ The criteria, in order: **sound quality and ANC performance as measured by revie
 
 **Score: 9.0/10. $329 CAD.**
 
-This is the default pick and it isn't close. Apple's strongest noise cancellation in earbuds, heart-rate sensing during workouts, Live Translation for in-person conversations, and an IP57 rating on both the buds *and* the case, which means they survive rain and sweat better than anything else here. Battery runs up to 8 hours with ANC on, and the case charges over USB-C and MagSafe with a speaker for Find My.
+Still the default pick for anyone who wants the best. The sealed silicone-tip fit means its noise cancellation beats every open-ear bud Apple makes, and it keeps the extras the AirPods 5 don't get: heart-rate sensing during workouts, hearing protection features, and up to 8 hours of listening with ANC on. Add Live Translation, an IP57 rating on the buds *and* the case, and five tip sizes, and it's the complete package.
 
-MobileSyrup's Canadian review called them a no-brainer for anyone who needs new earbuds, with better fit (five tip sizes now), better sound, and longer battery than the Pro 2. The one group that should pause: Pro 2 owners. The old Pros are still excellent and are getting software features like Live Translation anyway.
+MobileSyrup's Canadian review called them a no-brainer for anyone who needs new earbuds. The one group that should pause: AirPods Pro 2 owners. The old Pros are still excellent and are getting software features like Live Translation anyway.
 
-**Pros:** Best ANC in Apple's earbuds; heart-rate sensing; IP57 buds and case; 8-hour ANC battery; secure fit with five tip sizes.
+**Pros:** Best ANC in Apple's earbuds; heart-rate sensing; hearing health features; IP57 buds and case; 8-hour ANC battery.
 
 **Cons:** $329; Pro 2 owners don't need to upgrade; Live Translation is neat but situational.
 
-**Best for:** Anyone buying AirPods who doesn't have a specific reason to buy something else.
+**Best for:** Anyone who wants the best AirPods and doesn't mind silicone tips.
 
 **Check price:** [Apple Store Canada](https://www.apple.com/ca/airpods/)
 
-### 2. AirPods 4 with ANC, best value noise cancelling
+### 2. AirPods 5, best value
 
-**Score: 8.5/10. $249 CAD.**
+**Score: 8.5/10. $179 CAD, or $209 with the Wireless Charging Case.**
 
-This is the interesting one. It's the first time Apple's open-ear, tipless AirPods have active noise cancellation, and it shares the H2 chip, Adaptive Audio, Transparency mode, and Conversation Awareness with the Pro. If you hate silicone tips, or you just want ANC for $80 less than the Pro 3, this is your pick.
+This is the new sweet spot. Apple put ANC in every AirPods 5, claiming 1.5x more noise reduction than the AirPods 4 with ANC, alongside Adaptive Audio, Transparency mode, Conversation Awareness, Personalized Spatial Audio, Live Translation, Siri AI, and an IP57 rating. The H2 chip carries over. What you don't get versus the Pro 3: the sealed fit (so ANC can't match it), heart-rate sensing, hearing protection, or lossless audio.
 
-The tradeoff is physics: without a sealed fit, the ANC can't match the Pro 3. Reviewers (Engadget, Digital Trends) find it genuinely useful against constant low-frequency noise like fans and engines, but it's a step down. Battery is also shorter at 4 hours with ANC on, and you don't get the hearing-health features.
+Which of the two models? **Spend the extra $30 on the Wireless Charging Case version.** For $209 you get an extra hour of ANC battery (5 hours versus 4), swipe volume controls on the stems, and a wireless charging case that works with Apple Watch chargers and Qi pads plus a Find My speaker. It's also $40 cheaper than the old AirPods 4 with ANC was, which makes the previous generation instantly obsolete.
 
-**Pros:** ANC without silicone tips; same H2 features as the Pro; $80 cheaper than the Pro 3; wireless charging case.
+**Pros:** ANC standard at $179; $209 model adds real upgrades for $30; IP57; Live Translation; H2 features throughout.
 
-**Cons:** Weaker ANC than the Pro 3 (no seal); 4-hour ANC battery; no hearing test or hearing-aid features.
+**Cons:** Open-ear ANC can't match the Pro 3's sealed fit; no heart-rate sensing or hearing features; 4-hour ANC battery on the base model.
 
-**Best for:** People who hate in-ear tips but still want noise cancellation, and bargain hunters who find it discounted.
+**Best for:** Almost everyone else. Tip-haters, value hunters, and anyone replacing old non-Pro AirPods.
 
 **Check price:** [Apple Store Canada](https://www.apple.com/ca/airpods/)
 
@@ -61,9 +61,9 @@ The tradeoff is physics: without a sealed fit, the ANC can't match the Pro 3. Re
 
 Apple's second-generation over-ears, released March 2026, finally bring the Max line up to date: the H2 chip, a claimed 1.5x more effective ANC than the original, Live Translation, Conversation Awareness, and proper 24-bit/48kHz lossless audio over the included USB-C cable. TechRadar's reviewer called them the best noise-cancelling iPhone headphones on the planet, with glorious sound.
 
-The problems are the same as ever: $799 CAD ($20 more than the original in Canada), 386 grams on your head, 20-hour battery that's merely fine, and the same Smart Case. This is a luxury pick, and TechRadar's advice is right: never pay full price. They've already been spotted well below MSRP.
+The problems are the same as ever: $799 CAD ($20 more than the original in Canada), 386 grams on your head, 20-hour battery that's merely fine, and the same Smart Case. This is a luxury pick. They've already been spotted well below MSRP, so never pay full price.
 
-**Pros:** Best ANC you can get with an iPhone; lossless over USB-C; genuinely superb sound; Live Translation.
+**Pros:** Best ANC you can get with an iPhone; lossless over USB-C; superb sound; Live Translation.
 
 **Cons:** $799; heavy at 386g; mediocre 20-hour battery; buy only on sale.
 
@@ -71,28 +71,16 @@ The problems are the same as ever: $799 CAD ($20 more than the original in Canad
 
 **Check price:** [Apple Store Canada](https://www.apple.com/ca/airpods/)
 
-### 4. AirPods 4, cheapest
-
-**Score: 7.5/10. $179 CAD.**
-
-No ANC, no wireless charging case, no hearing features. What you get is the basics done right: the H2 chip, personalized spatial audio, 5 hours of listening, IP54 resistance, and the open-ear fit that millions of people prefer. If you just want AirPods for calls, podcasts, and music in quiet places, there's no reason to spend more.
-
-**Pros:** Cheapest way into AirPods; comfortable tipless fit; H2 features and spatial audio included.
-
-**Cons:** No ANC at all; no wireless charging; shortest feature list.
-
-**Best for:** Budget buyers and anyone who finds ANC pointless for how they listen.
-
-**Check price:** [Apple Store Canada](https://www.apple.com/ca/airpods/)
-
 ## Who should skip
 
-**AirPods Pro 2 owners: you're fine.** Your buds are still excellent, and Apple's bringing software features like Live Translation to them. No need to spend $329.
+**AirPods 4 owners: check clearance, not the new models.** Your buds still work fine, and leftover AirPods 4 stock is being cleared cheap (iPhoneInCanada spotted them at $140 on Amazon.ca). That's a genuine bargain if you don't need ANC.
 
-**Original AirPods Max owners: only upgrade if the battery is dying.** The Max 2 is better in every way that matters, but the design, weight, and case are unchanged, and $799 is a lot for what amounts to a chip and ANC upgrade.
+**AirPods Pro 2 owners: you're fine.** Still excellent, still getting software features like Live Translation. No need to spend $329.
+
+**Original AirPods Max owners: only upgrade if the battery is dying.** The Max 2 is better in every way that matters, but the design, weight, and case are unchanged, and $799 is a lot for a chip and ANC upgrade.
 
 **Android users: look elsewhere.** Everything that makes AirPods good, the pairing, the device switching, the spatial audio, is built for iPhones. On Android they're just expensive earbuds.
 
 ## The bottom line
 
-Four models, four clear jobs. The **AirPods Pro 3** ($329) is the best pick for most people, the **AirPods 4 with ANC** ($249) is the value play and the one for tip-haters, the **AirPods Max 2** ($799) is the luxury over-ear you should only buy on sale, and the base **AirPods 4** ($179) covers the basics. And the standing rule for all of them: check Amazon.ca and Best Buy Canada before paying Apple's price.
+The AirPods 5 reset the lineup: noise cancellation for everyone from $179, and the $209 wireless-case model is the value king. The **AirPods Pro 3** ($329) remains the best for people who want it all, and the **AirPods Max 2** ($799) is the luxury over-ear to buy only on sale. And the standing rule: check Amazon.ca and Best Buy Canada before paying Apple's price.
